@@ -74,8 +74,7 @@ public static class MyHtmlHelperLinkExtensions
         {
             content.Append(" ");
             if (article.Resolved.DalletNames.Any())
-            {
-                content.AppendHtml($"""<input type="button" style="color: red;" value=">" onclick="quickFix('{article.Resolved.Id}')" />""");
+            {   
                 content.AppendHtml("""<span style="font-size: 2.5em; white-space: nowrap;">""");
                 content.Append("[");
                 for (int i = 0; i < article.Resolved.DalletNames.Count; i++)

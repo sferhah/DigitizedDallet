@@ -219,41 +219,6 @@ public class ArticleController : Controller
     }
 
     [HttpPost]
-    public ActionResult QuickFix(string id)
-    {
-        var stored_article = Doc.GetArticle(id);        
-
-        if (stored_article == null)
-        {
-            return NotFound();
-        }
-
-        if (stored_article.DalletNames.Count != 1)
-        {
-            return BadRequest();
-        }
-
-        var dalletName = stored_article.DalletNames.First();
-
-        if (dalletName.Contains("tţ"))
-        {
-            dalletName = dalletName.Replace("tţ", "ţ");
-        }
-        else
-        {
-            dalletName = "e" + dalletName;
-        }
-
-
-        stored_article.DalletNames = new List<string> { dalletName };
-
-        DicoRepository.QuickSave();
-
-        return Ok();
-    }
-
-
-    [HttpPost]
     public ActionResult AddDallet(string id)
     {
         var stored_article = Doc.GetArticle(id);        
