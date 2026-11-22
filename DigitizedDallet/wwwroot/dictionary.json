@@ -1,6 +1,6 @@
 {
   "readme": {
-    "lastModificationDate": "2026-11-22T05:21:41.6966416+01:00",
+    "lastModificationDate": "2026-11-22T06:42:35.9965274+01:00",
     "dataModelVersion": 8,
     "fileDescription": "Dallet's dictionary of Kabyle, digitized & structured",
     "fileUrl": "https://github.com/sferhah/DigitizedDallet/blob/master/DigitizedDallet/wwwroot/dictionary.json",
@@ -17983,7 +17983,7 @@
                     },
                     {
                       "id": "476",
-                      "text": "win yebɣan ad igem, yilqiq ; win yebɣyan ad yuzur, yirqiq",
+                      "text": "win yebɣan ad igem, yilqiq ; win yebɣan ad yuzur, yirqiq",
                       "dalletText": "wi_bɣan ad igem, yilqiq ; wi_bɣan ad yuzur, yiṛqiq",
                       "translation": "pour réussir il faut souvent user de souplesse et de conciliation (qui veut grandir, qu'il devienne souple ; qui veut grossir, qu'il devienne maigre)."
                     },
@@ -17995,7 +17995,7 @@
                     },
                     {
                       "id": "478",
-                      "text": "win yebɣan ad iḥuǧǧ yezwir di lwacul-is",
+                      "text": "win yebɣan ad iḥuǧ yezwir di lwacul-is",
                       "dalletText": "wi_bɣan ad iḥuǧ yezwir di lwacul-is",
                       "translation": "quand on a de bonnes intentions, il faut en faire profiter d'abord sa famille (qui veut faire une action méritoire, qu'il commence par les siens)."
                     },
@@ -19719,7 +19719,7 @@
                     {
                       "id": "520",
                       "text": "Amsefru: tabuqalt-iw n lfeṭṭa iɛellqen ar tseṭṭa. Lewǧab: d tafeqlujt.",
-                      "dalletText": "Amsefru: tabuqalt-iw l_lfeṭṭa iɛellqen ar tseṭṭa. Lewgab : t_tafeqlujt",
+                      "dalletText": "Amsefru: tabuqalt-iw l_lfeṭṭa iɛellqen ar tseṭṭa. Lewǧab : t_tafeqlujt",
                       "translation": "Devinette : mon petit pot en argent suspendu à une branche. Réponse : une courgette."
                     }
                   ]
@@ -27594,7 +27594,7 @@
                   "examples": [
                     {
                       "id": "776",
-                      "text": "Amsefru: tekkernenni tebbernenni tewweḍ igenni, d tazeggʷaɣt am lḥenni. Lewǧab: d tačinatt",
+                      "text": "Amsefru: tekkernenni tebbernenni tewweḍ igenni, d tazeggaɣt am lḥenni. Lewǧab: d tačinatt",
                       "dalletText": "Amsefru: tekkʷernenni tebbernenni tebbʷḍ igenni, t_tazeggʷaɣt am lḥenni. Lewǧab: t_tačinaţ",
                       "translation": "Devinette : elle est ronde, tout en boule, elle est en l'air, rouge comme du henné. Réponse : l'orange."
                     }
@@ -39984,7 +39984,7 @@
                   "examples": [
                     {
                       "id": "1039",
-                      "text": "acu tebɣid ? / d acu tebɣiḍ ? / d acu i tebɣiḍ ?",
+                      "text": "acu tebɣiḍ ? / d acu tebɣiḍ ? / d acu i tebɣiḍ ?",
                       "dalletText": "acu tebɣiḍ ? / d acu tebɣiḍ ? / d acu i tebɣiḍ ?",
                       "translation": "que veux-tu ?"
                     },
@@ -99228,7 +99228,7 @@
                   "examples": [
                     {
                       "id": "2665",
-                      "text": "yiwen ddur d arqaq, wayed d azuran",
+                      "text": "yiwen ddur d arqaq, wayeḍ d azuran",
                       "dalletText": "yiwen dduṛ d aṛqaq, wayeḍ d azuran",
                       "translation": "un tour fin et un tour gros (d'une vannerie mal faite)."
                     },
@@ -296842,7 +296842,7 @@
                     },
                     {
                       "id": "7717",
-                      "text": "ma yella teqqimeḍ, nekk ad ruheɣ",
+                      "text": "ma yella teqqimeḍ, nekk ad ruḥeɣ",
                       "dalletText": "ma yella teqqimeḍ, nekk ad ṛuḥeɣ",
                       "translation": "si tu restes, moi je partirai."
                     },
@@ -386170,7 +386170,7 @@
                   "examples": [
                     {
                       "id": "10249",
-                      "dalletText": "mi tesliḍ i yemqʷeṛqaṛ, i tɣiredmiwin, i izerman... la jeɛɛun deg_gʷɛebbuḍ-iw„ teḥsiḍ eṭṭseɣ",
+                      "dalletText": "mi tesliḍ i yemqʷeṛqaṛ, i tɣiredmiwin, i izerman... la jeɛɛun deg_gʷɛebbuḍ-iw, teḥsiḍ eṭṭseɣ",
                       "translation": "quand tu entends crapauds, scorpions, serpents faire du bruit dans mon ventre, compte que je dors.",
                       "source": "(conte de Mère Nouja)"
                     }
@@ -387850,7 +387850,7 @@
                   "examples": [
                     {
                       "id": "10299",
-                      "dalletText": "amendil bu° teɣṛist",
+                      "dalletText": "amendil bu teɣṛist",
                       "translation": "foulard à franges."
                     },
                     {
@@ -603383,7 +603383,7 @@
                     },
                     {
                       "id": "15951",
-                      "dalletText": "iɛedda fell-i uzaylal° — ou : tɛedda tcalwawt fell-i",
+                      "dalletText": "iɛedda fell-i uzaylal — ou : tɛedda tcalwawt fell-i",
                       "translation": "j'ai eu un moment d'inattention ; je me suis laissé surprendre."
                     },
                     {
