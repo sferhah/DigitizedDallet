@@ -1,6 +1,6 @@
 {
   "readme": {
-    "lastModificationDate": "2023-12-03T00:12:05.8010488+01:00",
+    "lastModificationDate": "2026-11-22T02:17:31.5974788+01:00",
     "dataModelVersion": 8,
     "fileDescription": "Dallet's dictionary of Kabyle, digitized & structured",
     "fileUrl": "https://github.com/sferhah/DigitizedDallet/blob/master/DigitizedDallet/wwwroot/dictionary.json",
@@ -162600,7 +162600,7 @@
                     },
                     {
                       "id": "4404",
-                      "dalletText": "teṭru tegnewt fell-as",
+                      "dalletText": "teţru tegnewt fell-as",
                       "translation": "le ciel pleure sur lui ; il pleut au moment de sa mort ou de son enterrement."
                     }
                   ]
@@ -212647,7 +212647,8 @@
                     {
                       "id": "5571",
                       "dalletText": "yenneḍ yis-neɣ lḥesḱ",
-                      "translation": "il nous en a fait voir de toutes les couleurs Cil nous a entourés de chardons)."
+                      "translation": "il nous en a fait voir de toutes les couleurs.",
+                      "literal": "il nous a entourés de chardons"
                     }
                   ]
                 }
@@ -241185,8 +241186,13 @@
                     {
                       "id": "6165",
                       "dalletText": "ma tebɣiḍ at_teẓṛeḍ lḥaḱem, jeɛɛel axeyyal",
-                      "translation": "si tu veux être reçu par l'administrateur, donne la pièce au cavalier de service. H Faire, constituer."
+                      "translation": "si tu veux être reçu par l'administrateur, donne la pièce au cavalier de service."
                     }
+                  ]
+                },
+                {
+                  "translations": [
+                    "Faire, constituer."
                   ]
                 }
               ]
