@@ -1,6 +1,6 @@
 {
   "readme": {
-    "lastModificationDate": "2026-11-22T02:17:31.5974788+01:00",
+    "lastModificationDate": "2026-11-22T05:21:41.6966416+01:00",
     "dataModelVersion": 8,
     "fileDescription": "Dallet's dictionary of Kabyle, digitized & structured",
     "fileUrl": "https://github.com/sferhah/DigitizedDallet/blob/master/DigitizedDallet/wwwroot/dictionary.json",
@@ -54456,12 +54456,14 @@
                     {
                       "id": "1454",
                       "dalletText": "ɣʷezzifit claɣʷm-ik !",
-                      "translation": "tu te prends pour quelqu'un (tu as de longues moustaches)."
+                      "translation": "tu te prends pour quelqu'un.",
+                      "literal": "tu as de longues moustaches"
                     },
                     {
                       "id": "1455",
                       "dalletText": "iberren claɣʷm-is",
-                      "translation": "il impose le respect (il tourne ses moustaches)."
+                      "translation": "il impose le respect.",
+                      "literal": "il tourne ses moustaches"
                     },
                     {
                       "id": "1456",
@@ -54481,12 +54483,14 @@
                     {
                       "id": "1459",
                       "dalletText": "yeffeẓ claɣʷm-is",
-                      "translation": "il n'a pas (J'amour-propre (il mâche ses moustaches)."
+                      "translation": "il n'a pas d'amour-propre.",
+                      "literal": "il mâche ses moustaches"
                     },
                     {
                       "id": "1460",
                       "dalletText": "claɣʷm-is yeţrebbi-ten d akʷssar mačči d asawen",
-                      "translation": "il n'est pas trop sensible au point d'honneur (il fait pousser sa moustache vers le bas non vers le haut)."
+                      "translation": "il n'est pas trop sensible au point d'honneur.",
+                      "literal": "il fait pousser sa moustache vers le bas non vers le haut"
                     },
                     {
                       "id": "1461",
@@ -54506,7 +54510,7 @@
                     {
                       "id": "1464",
                       "dalletText": "claɣʷem bbʷemcic",
-                      "translation": "variété d'herbe graminée (bot. : moustache de chat)."
+                      "translation": "* variété d'herbe graminée (bot. : moustache de chat)."
                     }
                   ]
                 }
@@ -70371,7 +70375,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Petile corne."
+                    "Petite corne."
                   ],
                   "examples": [
                     {
@@ -74907,7 +74911,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Être célèbre, eonnu."
+                    "Être célèbre, connu."
                   ]
                 }
               ]
@@ -106176,12 +106180,14 @@
                     {
                       "id": "2823",
                       "dalletText": "ṛebbi ur yeṭṭeggiɛ ara di leɛtab n bnadem",
-                      "translation": "ce n'est pas du travail, de la peine inutile (Dien ne néglige pas la peine de la créature)."
+                      "translation": "ce n'est pas du travail, de la peine inutile.",
+                      "literal": "Dieu ne néglige pas la peine de la créature"
                     },
                     {
                       "id": "2824",
                       "dalletText": "a wer iḍeggeɛ ṛebbi di leɛtab-ik !",
-                      "translation": "ton travail, ta peine ne soient pas vains ! (que Dieu ne tienne pas pour rien tes peines !)"
+                      "translation": "ton travail, ta peine ne soient pas vains !",
+                      "literal": "que Dieu ne tienne pas pour rien tes peines !"
                     },
                     {
                       "id": "2825",
@@ -171561,7 +171567,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Kabyle habitant la région montagneuse au nord de la chaîne du Djurdjura. Précicisément, habitant de l'une des huit tribus suivantes, regroupées autrefois en deux confédérations : ''at betrun'' et ''at mangellat'' : (''at betrun'' : ''at yanni'', ''at wasif'', ''at buɛekkac'', ''at budrar'' ; ''at mangellat'' : ''at mangellat'', ''at bu yusef'', ''at weqbil'', ''at ɛeṭṭaf'' (cf. Hanoteau, t. I, p. 305-309, 2° éd. 1893). L'ensemble compte traditionnellement 42 villages. Cette définition stricte, encore connue de bien des Kabyles de Grande Kabylie, s'est depuis longtemps élargie. Le nom ''igagawen'' est volontiers donné par les Kabyles eux-mêmes à toute la légion de Haute Kabylie centrale, entre Djurdjura et rive gauche de l'asif n sebaw (Sebaou). Plus largement encore, pour les Kabyles des légions voisines (Petite Kabylie et autres berbérophones), les ''igagawen'' sont les habitants de la Grande Kabylie, entre chaîne montagneuse et la mer, du sud au nord, et entre Bougie et Dellys d'est en ouest. Les Arabes, de façon générale, les Algériens arabophones et les Maghrébins, connaissent les habitants de cette région sous le nom de Kabyles : ''leqbayel'', et aussi sous le nom, considéré comme proprement arabe par les Kabyles, de ''zwâwa''. Les Kabyles n'emploient pas ce nom dans leur dialecte; c'est pourtant le nom que leur reconnaît Ibn Khaldoun dans son Histoire."
+                    "Kabyle habitant la région montagneuse au nord de la chaîne du Djurdjura. Précisément, habitant de l'une des huit tribus suivantes, regroupées autrefois en deux confédérations : ''at betrun'' et ''at mangellat'' : (''at betrun'' : ''at yanni'', ''at wasif'', ''at buɛekkac'', ''at budrar'' ; ''at mangellat'' : ''at mangellat'', ''at bu yusef'', ''at weqbil'', ''at ɛeṭṭaf'' (cf. Hanoteau, t. I, p. 305-309, 2° éd. 1893). L'ensemble compte traditionnellement 42 villages. Cette définition stricte, encore connue de bien des Kabyles de Grande Kabylie, s'est depuis longtemps élargie. Le nom ''igagawen'' est volontiers donné par les Kabyles eux-mêmes à toute la légion de Haute Kabylie centrale, entre Djurdjura et rive gauche de l'asif n sebaw (Sebaou). Plus largement encore, pour les Kabyles des légions voisines (Petite Kabylie et autres berbérophones), les ''igagawen'' sont les habitants de la Grande Kabylie, entre chaîne montagneuse et la mer, du sud au nord, et entre Bougie et Dellys d'est en ouest. Les Arabes, de façon générale, les Algériens arabophones et les Maghrébins, connaissent les habitants de cette région sous le nom de Kabyles : ''leqbayel'', et aussi sous le nom, considéré comme proprement arabe par les Kabyles, de ''zwâwa''. Les Kabyles n'emploient pas ce nom dans leur dialecte; c'est pourtant le nom que leur reconnaît Ibn Khaldoun dans son Histoire."
                   ],
                   "examples": [
                     {
@@ -190943,7 +190949,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Qui conimence à apprendre, apprenti."
+                    "Qui commence à apprendre, apprenti."
                   ]
                 }
               ]
@@ -199477,7 +199483,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Le nom du Prophête.",
+                    "Le nom du Prophète.",
                     "Prénom."
                   ],
                   "note": "V. Annexe n. pr.",
@@ -261783,7 +261789,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "S'entre-écoreher."
+                    "S'entre-écorcher."
                   ]
                 }
               ]
@@ -277969,7 +277975,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Mm. ss. que le precéd. (et plus empl.)."
+                    "Mm. ss. que le précéd. (et plus empl.)."
                   ],
                   "examples": [
                     {
@@ -391349,13 +391355,14 @@
               "meanings": [
                 {
                   "translations": [
-                    "Faire disraître."
+                    "Faire disparaître."
                   ],
                   "examples": [
                     {
                       "id": "10374",
                       "dalletText": "ad yesɣab ṛebbi ṣṣut-im !",
-                      "translation": "que Dieu te rende muette ! (qu'il fasse disparaître ta voix)."
+                      "translation": "que Dieu te rende muette !",
+                      "literal": "que Dieu fasse disparaître ta voix"
                     },
                     {
                       "id": "10375",
@@ -426677,7 +426684,7 @@
                   "meanings": [
                     {
                       "translations": [
-                        "{{Top.}} : l'olivier sauvage de ''aqwir'' : « gardien » ([[aɛessas]]), au bas de la colline, versant nord de Tawrirt. {{A. M.}} Il a dispuru lors de l'aménagement de la grande route. Tout ce versant, dans sa partie inférieure, se nomme ''aqwir''."
+                        "{{Top.}} : l'olivier sauvage de ''aqwir'' : « gardien » ([[aɛessas]]), au bas de la colline, versant nord de Tawrirt. {{A. M.}} Il a disparu lors de l'aménagement de la grande route. Tout ce versant, dans sa partie inférieure, se nomme ''aqwir''."
                       ]
                     }
                   ]
@@ -586382,7 +586389,7 @@
                     {
                       "id": "15547",
                       "dalletText": "amcum ma d i ḱ-yeẓẓemlal efḱ-as ṭṭṛiḥa yuklal",
-                      "translation": "si un importun vous poursuit, il lui faut la râclée qu'il mérite."
+                      "translation": "si un importun vous poursuit, il lui faut la raclée qu'il mérite."
                     },
                     {
                       "id": "15548",
@@ -602334,7 +602341,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Payer la dime ; verser une aumône pieuse.",
+                    "Payer la dîme ; verser une aumône pieuse.",
                     "Prélever."
                   ],
                   "examples": [
@@ -608025,7 +608032,7 @@
                     {
                       "id": "16078",
                       "dalletText": "ɣuṛ-ek, a waġi dg i ţ-yeḍṣan at_tǧeɛleḍ di llhu ay telliḍ : ḥader a ḱ-ɛeǧben wussan : ddenya kks-eḋ wⁱ ur tenfiḍ",
-                      "translation": "toi qui prei.ds cause de ma situation pour te moquer de moi, prends garde de croire que tu sois en si bonne posture ; prends garde que les jours de ce monde te soient trop agréables ; il n'en est pas que la fortune ait jamais épargné, tu peux chercher."
+                      "translation": "toi qui prends cause de ma situation pour te moquer de moi, prends garde de croire que tu sois en si bonne posture ; prends garde que les jours de ce monde te soient trop agréables ; il n'en est pas que la fortune ait jamais épargné, tu peux chercher."
                     },
                     {
                       "id": "16079",
@@ -611303,7 +611310,7 @@
                     {
                       "id": "16141",
                       "dalletText": "ɛellmen taqcict ara s-aɣen i waɛṛab",
-                      "translation": "il ont, après pourparlers sérieux, des vues sur une jeune fille pour Arab."
+                      "translation": "ils ont, après pourparlers sérieux, des vues sur une jeune fille pour Arab."
                     },
                     {
                       "id": "16142",
@@ -618217,7 +618224,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Toponyme : terres traversées par le chemin qui va de l'hôpital à Aïn-elHammam, et le chemin lui-même."
+                    "Toponyme : terres traversées par le chemin qui va de l'hôpital à Aïn-el-Hammam, et le chemin lui-même."
                   ],
                   "examples": [
                     {
@@ -619212,7 +619219,7 @@
                     {
                       "id": "16369",
                       "dalletText": "ccix aɛṛab",
-                      "translation": "saint de Taourirt Amrane, près de Aïn cl Hammam."
+                      "translation": "saint de Taourirt Amrane, près de Aïn el Hammam."
                     }
                   ]
                 }
