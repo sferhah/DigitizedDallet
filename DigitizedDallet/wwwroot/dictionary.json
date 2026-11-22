@@ -1,6 +1,6 @@
 {
   "readme": {
-    "lastModificationDate": "2026-11-22T06:42:35.9965274+01:00",
+    "lastModificationDate": "2026-11-23T00:22:04.5644659+01:00",
     "dataModelVersion": 8,
     "fileDescription": "Dallet's dictionary of Kabyle, digitized & structured",
     "fileUrl": "https://github.com/sferhah/DigitizedDallet/blob/master/DigitizedDallet/wwwroot/dictionary.json",
@@ -7198,7 +7198,7 @@
                   "examples": [
                     {
                       "id": "233",
-                      "dalletText": "win ibeggʷṛen iman-is ur yeţɛanad  tizyiwin-is !",
+                      "dalletText": "win ibeggʷṛen iman-is ur yeţɛanad tizyiwin-is !",
                       "translation": "que les sots ne cherchent pas à imiter les gens du même âge qu'eux."
                     }
                   ]
@@ -8157,7 +8157,7 @@
                   "examples": [
                     {
                       "id": "248",
-                      "dalletText": "yekcem emmi ɣeṛ tebḥirt  el_lǧaṛ-iw yessas-iyi-ḋ ţḃehḋila",
+                      "dalletText": "yekcem emmi ɣeṛ tebḥirt el_lǧaṛ-iw yessas-iyi-ḋ ţḃehḋila",
                       "translation": "mon fils est entré dans le jardin de mon voisin et il m'a attiré des ennuis."
                     }
                   ]
@@ -10985,7 +10985,7 @@
                     },
                     {
                       "id": "309",
-                      "dalletText": "tebbeḱḃeḱ ddeɛwa ulac lexʷbaṛ  bbʷacemmeḱ",
+                      "dalletText": "tebbeḱḃeḱ ddeɛwa ulac lexʷbaṛ bbʷacemmeḱ",
                       "translation": "on n'entend rien dire de l'affaire, c'est le silence complet."
                     }
                   ]
@@ -11082,7 +11082,7 @@
                   "examples": [
                     {
                       "id": "314",
-                      "text": "ṣṣuṛa n tebkitt",
+                      "text": "ṣṣura n tebkitt",
                       "dalletText": "ṣṣuṛa n tebḱiţ",
                       "translation": "se dit d'une femme trop maigre et laide (aspect de guenon)."
                     }
@@ -13014,12 +13014,12 @@
                     },
                     {
                       "id": "359",
-                      "dalletText": "zik afexxaṛ  ţbeddilen-ten f at xiṛ s ubelluḍ",
+                      "dalletText": "zik afexxaṛ ţbeddilen-ten f at xiṛ s ubelluḍ",
                       "translation": "autrefois on échangeait les poteries des At Khir contre des glands."
                     },
                     {
                       "id": "360",
-                      "text": "aḥriq n ubellud",
+                      "text": "aḥriq n ubelluḍ",
                       "dalletText": "aḥṛiq ubelluḍ",
                       "translation": "bosquet de petits chênes."
                     },
@@ -16539,7 +16539,7 @@
                   "examples": [
                     {
                       "id": "439",
-                      "dalletText": "anda bniɣ tixsi i nsiɣ mblᵃ  imensi",
+                      "dalletText": "anda bniɣ tixsi i nsiɣ mblᵃ imensi",
                       "translation": "là où j'escomptais me régaler d'une brebis, je me suis couché sans souper."
                     }
                   ]
@@ -19069,7 +19069,7 @@
                     },
                     {
                       "id": "507",
-                      "dalletText": "win iwet laẓ s aqeṛṛu, xas yeččuṛ uɛebbuḍ-is, ḃaqi iceffu ; ma d win iwet laẓ s aɛebbuḍ,  mi_ġeṛwa, ad yeţţu",
+                      "dalletText": "win iwet laẓ s aqeṛṛu, xas yeččuṛ uɛebbuḍ-is, ḃaqi iceffu ; ma d win iwet laẓ s aɛebbuḍ, mi_ġeṛwa, ad yeţţu",
                       "translation": "celui qui a compris le sens de la misère qui l'atteint continue d'y penser ; celui qui ne l'a ressentie que physiquement, sitôt passée, sitôt oubliée.",
                       "literal": "Celui que la misère a atteint à la tête, même si le ventre est plein, il continue de s'en souvenir ; mais celui que la faim a atteint au ventre, dès qu'il est rassasié, l'oublie."
                     }
@@ -20220,7 +20220,7 @@
                     },
                     {
                       "id": "528",
-                      "dalletText": "yebbuqqi-ḋ lɣaci  f_febrid",
+                      "dalletText": "yebbuqqi-ḋ lɣaci f_febrid",
                       "translation": "tout le monde se précipite d'un seul mouvement."
                     }
                   ]
@@ -70437,7 +70437,7 @@
                     },
                     {
                       "id": "1837",
-                      "text": "imi-m d aɣerbal, iciwi-m d taṛbut",
+                      "text": "imi-m d aɣerbal, iciwi-m d tarbut",
                       "dalletText": "imi-m d aɣerbal, iciwi-m t_taṛbut",
                       "translation": "tu parles beaucoup trop ! ou : que ce que tu me souhaites retombe sur toi ! (ta bouche est un tamis et ton giron un plat à couscous)."
                     },
@@ -74190,7 +74190,7 @@
                         {
                           "id": "1907",
                           "text": "ccix n lebqul xeddmen-t d taqfalt neɣ d tabazint",
-                          "dalletText": "ccix l_lebqul xeddmen-t  t_taqfalt neɣ t_tabazint",
+                          "dalletText": "ccix l_lebqul xeddmen-t t_taqfalt neɣ t_tabazint",
                           "translation": "la bourrache se fait cuire à la vapeur ou en purée."
                         }
                       ]
@@ -106442,7 +106442,7 @@
                     },
                     {
                       "id": "2829",
-                      "text": "tḍehṛ-iyi s tadist",
+                      "text": "tḍehr-iyi s tadist",
                       "dalletText": "ṭṭehṛ-iyi s tadist",
                       "translation": "elle m'est apparue enceinte, j'ai vu qu'elle était enceinte.",
                       "note": "tḍehṛ => ṭṭehṛ"
@@ -199590,9 +199590,9 @@
                   "examples": [
                     {
                       "id": "5309",
-                      "text": "mi ara yegri­reb wezger neɣ tafunast i wabɛeḍ di taddart, tettas-as-d lexsara tameqrant ; lameɛna ma yezla lmacya-nni qbel ad temmurḍes, yezmer a d-yerr kra di txessaṛt-is. ad tt-yečč weḥd-s? mačči d ayen ara yečč : ihi lqurub-is d yeḥbiben-is ferrqen-tt d tixxamin ; kull yiwen yettak lḥeqq-is n yedrimen akken ad ssifsen taxessart ɣef win d-tusa ; nitni yelha-yasen imi wwin aksum s rrxa ; bab n lmacya yelha-­yas imi d-yerra kra di txessart-is",
+                      "text": "mi ara yegri­reb wezger neɣ tafunast i wabɛeḍ di taddart, tettas-as-d lexsara tameqrant ; lameɛna ma yezla lmacya-nni qbel ad temmurḍes, yezmer a d-yerr kra di txessart-is. ad tt-yečč weḥd-s? mačči d ayen ara yečč : ihi lqurub-is d yeḥbiben-is ferrqen-tt d tixxamin ; kull yiwen yettak lḥeqq-is n yedrimen akken ad ssifsen taxessart ɣef win d-tusa ; nitni yelha-yasen imi wwin aksum s rrxa ; bab n lmacya yelha-­yas imi d-yerra kra di txessart-is",
                       "dalletText": "mⁱ ara yegri­reb wezġer neɣ tafunast i wabɛeḍ di taddart, teţţas-as-ḋ lexsaṛa tameqʷrant ; lameɛna ma yezla lmacya-nni qbel at_temmuṛḍes, yezmer a ḋ-yerr kra di txessaṛt-is. a ţ-yečč weḥd-es? mačči d ayn ara yečč : ihi lquṛub-is d-yeḥbibn-is feṛṛqen-ţ t_tixxamin ; ḱul yiwen yeţţaḱ lḥeqq-is ggedrimen akken ad ssifsen taxessaṛt ɣef_fin ḋ_dusa ; nitni yelha-yasen imi bbʷin aksum s eṛṛxa ; bab el_lmacya yelha­-yas imi ḋ-yerra kra di txessaṛt-is",
-                      "translation": "quand se blesse gravement dans une chute le boeuf ou la vache d'un habi­tant du village, il subit un gros dom­mage. Mais s'il égorge rituellement la bête avant qu'elle ne crève, il peut récupérer un peu de la perte. La man­gera-t-il seul ? Ce n'est pas possible. Alors, ses proches et ses amis décou­pent la bête en parts et chacun donne sa contribution pour alléger la perte du propriétaire. C'est avantageux pour eux qui ont ainsi de la viande moins chère et pour le propriétaire qui ré­cupère un peu du dommage subi."
+                      "translation": "quand se blesse gravement dans une chute le bœuf ou la vache d'un habi­tant du village, il subit un gros dom­mage. Mais s'il égorge rituellement la bête avant qu'elle ne crève, il peut récupérer un peu de la perte. La man­gera-t-il seul ? Ce n'est pas possible. Alors, ses proches et ses amis décou­pent la bête en parts et chacun donne sa contribution pour alléger la perte du propriétaire. C'est avantageux pour eux qui ont ainsi de la viande moins chère et pour le propriétaire qui ré­cupère un peu du dommage subi."
                     },
                     {
                       "id": "5310",
@@ -219457,7 +219457,7 @@
                           "examples": [
                             {
                               "id": "5694",
-                              "text": "i telha tqenduṛt-im",
+                              "text": "i telha tqendurt-im",
                               "dalletText": "i telha tqenduṛt-im",
                               "translation": "qu'elle est jolie, ta robe !"
                             },
@@ -338898,7 +338898,7 @@
                 },
                 {
                   "id": "6ebc8d47-e3ea-4511-b492-ea5606cbb81d",
-                  "name": "nneffṛan",
+                  "name": "nneffran",
                   "dalletNames": [
                     "nneffṛan"
                   ]
