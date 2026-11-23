@@ -1,6 +1,6 @@
 {
   "readme": {
-    "lastModificationDate": "2026-11-23T21:31:02.9246717+01:00",
+    "lastModificationDate": "2026-11-24T00:13:18.2003196+01:00",
     "dataModelVersion": 8,
     "fileDescription": "Dallet's dictionary of Kabyle, digitized & structured",
     "fileUrl": "https://github.com/sferhah/DigitizedDallet/blob/master/DigitizedDallet/wwwroot/dictionary.json",
@@ -34994,7 +34994,7 @@
                   "id": "1b90e306-66a0-4a05-91c2-a7941c3b6e78",
                   "name": "tubbya",
                   "dalletNames": [
-                    "ţwabbi"
+                    "tubbya"
                   ]
                 },
                 {
@@ -361059,7 +361059,7 @@
                     },
                     {
                       "id": "9507",
-                      "dalletText": "« ambʷa wᵃ i d ass yifn akʷ ussan ? — « d leḥbab mⁱ ara mlilen »",
+                      "dalletText": "« ambʷa wᵃ i d ass yifn akʷ ussan ? » — « d leḥbab mⁱ ara mlilen »",
                       "translation": "« quel est le jour qui surpasse tous les jours ? » — « C'est celui où des amis se retrouvent (ce sont des amis quand ils se rencontrent). »"
                     }
                   ]
@@ -385305,7 +385305,7 @@
                         "thirdSingularForms": [
                           {
                             "id": "4d421d44-0721-4246-96e6-9ea255b66c56",
-                            "name": "yetɣwerrib",
+                            "name": "yetɣerrib",
                             "dalletNames": [
                               "yeṫɣʷeṛṛib"
                             ]
@@ -385319,7 +385319,7 @@
               "verbalNouns": [
                 {
                   "id": "68d2f6a9-8ec8-4a62-a2ef-ece7ada92849",
-                  "name": "atɣwerreb",
+                  "name": "atɣerreb",
                   "dalletNames": [
                     "aṫɣʷeṛṛeb"
                   ]
@@ -484086,7 +484086,7 @@
                     {
                       "id": "12839",
                       "dalletText": "ur ḋ-essakʷay ara tussna !",
-                      "translation": "ne taquine pas un nid de guêpes !, c n'éveille pas le chat qui dort ! »."
+                      "translation": "ne taquine pas un nid de guêpes !, « n'éveille pas le chat qui dort ! »."
                     }
                   ]
                 }
