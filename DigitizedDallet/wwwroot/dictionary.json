@@ -1,6 +1,6 @@
 {
   "readme": {
-    "lastModificationDate": "2026-11-23T04:55:59.6304247+01:00",
+    "lastModificationDate": "2026-11-23T21:31:02.9246717+01:00",
     "dataModelVersion": 8,
     "fileDescription": "Dallet's dictionary of Kabyle, digitized & structured",
     "fileUrl": "https://github.com/sferhah/DigitizedDallet/blob/master/DigitizedDallet/wwwroot/dictionary.json",
@@ -84219,13 +84219,13 @@
               "meanings": [
                 {
                   "translations": [
-                    "Ruban de laine cardée enroulé sur le bras gauche, prêt à être filé (pour faire ce ruban, on coupe en deux ou en quatre chaque plaque de laine cardée appelée ''tacebbʷaṭ n taḍuṭ'' et on met ces éléments bout à bout : "
+                    "Ruban de laine cardée enroulé sur le bras gauche, prêt à être filé (pour faire ce ruban, on coupe en deux ou en quatre chaque plaque de laine cardée appelée ''tacebbʷaṭ n taḍuṭ'' et on met ces éléments bout à bout :"
                   ],
                   "examples": [
                     {
                       "id": "2232",
                       "dalletText": "mi ḋ_deddem yiwet tcebbʷaṭ, a ţ-tebḍu f ṛewɛa, a tent-tessemlil d idulal",
-                      "translation": "elle prend une plaque de laine, la divise en quatre et, mettant les quatre morceaux bout à bout, en fait un ruban (appelé idulal)."
+                      "translation": "elle prend une plaque de laine, la divise en quatre et, mettant les quatre morceaux bout à bout, en fait un ruban (appelé ''idulal'')."
                     }
                   ]
                 },
@@ -108980,7 +108980,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Sécurité, assurance, protection "
+                    "Sécurité, assurance, protection"
                   ],
                   "examples": [
                     {
@@ -199590,20 +199590,20 @@
               "meanings": [
                 {
                   "translations": [
-                    "Bête de boucherie accidentée et égor­gée au dernier moment :"
+                    "Bête de boucherie accidentée et égorgée au dernier moment :"
                   ],
                   "examples": [
                     {
                       "id": "5309",
-                      "text": "mi ara yegri­reb wezger neɣ tafunast i wabɛeḍ di taddart, tettas-as-d lexsara tameqrant ; lameɛna ma yezla lmacya-nni qbel ad temmurḍes, yezmer a d-yerr kra di txessart-is. ad tt-yečč weḥd-s? mačči d ayen ara yečč : ihi lqurub-is d yeḥbiben-is ferrqen-tt d tixxamin ; kull yiwen yettak lḥeqq-is n yedrimen akken ad ssifsen taxessart ɣef win d-tusa ; nitni yelha-yasen imi wwin aksum s rrxa ; bab n lmacya yelha-­yas imi d-yerra kra di txessart-is",
-                      "dalletText": "mⁱ ara yegri­reb wezġer neɣ tafunast i wabɛeḍ di taddart, teţţas-as-ḋ lexsaṛa tameqʷrant ; lameɛna ma yezla lmacya-nni qbel at_temmuṛḍes, yezmer a ḋ-yerr kra di txessaṛt-is. a ţ-yečč weḥd-es? mačči d ayn ara yečč : ihi lquṛub-is d-yeḥbibn-is feṛṛqen-ţ t_tixxamin ; ḱul yiwen yeţţaḱ lḥeqq-is ggedrimen akken ad ssifsen taxessaṛt ɣef_fin ḋ_dusa ; nitni yelha-yasen imi bbʷin aksum s eṛṛxa ; bab el_lmacya yelha­-yas imi ḋ-yerra kra di txessaṛt-is",
-                      "translation": "quand se blesse gravement dans une chute le bœuf ou la vache d'un habi­tant du village, il subit un gros dom­mage. Mais s'il égorge rituellement la bête avant qu'elle ne crève, il peut récupérer un peu de la perte. La man­gera-t-il seul ? Ce n'est pas possible. Alors, ses proches et ses amis décou­pent la bête en parts et chacun donne sa contribution pour alléger la perte du propriétaire. C'est avantageux pour eux qui ont ainsi de la viande moins chère et pour le propriétaire qui ré­cupère un peu du dommage subi."
+                      "text": "mi ara yegrireb wezger neɣ tafunast i wabɛeḍ di taddart, tettas-as-d lexsara tameqrant ; lameɛna ma yezla lmacya-nni qbel ad temmurḍes, yezmer a d-yerr kra di txessart-is. ad tt-yečč weḥd-s? mačči d ayen ara yečč : ihi lqurub-is d yeḥbiben-is ferrqen-tt d tixxamin ; kull yiwen yettak lḥeqq-is n yedrimen akken ad ssifsen taxessart ɣef win d-tusa ; nitni yelha-yasen imi wwin aksum s rrxa ; bab n lmacya yelha-yas imi d-yerra kra di txessart-is",
+                      "dalletText": "mⁱ ara yegrireb wezġer neɣ tafunast i wabɛeḍ di taddart, teţţas-as-ḋ lexsaṛa tameqʷrant ; lameɛna ma yezla lmacya-nni qbel at_temmuṛḍes, yezmer a ḋ-yerr kra di txessaṛt-is. a ţ-yečč weḥd-es? mačči d ayn ara yečč : ihi lquṛub-is d-yeḥbibn-is feṛṛqen-ţ t_tixxamin ; ḱul yiwen yeţţaḱ lḥeqq-is ggedrimen akken ad ssifsen taxessaṛt ɣef_fin ḋ_dusa ; nitni yelha-yasen imi bbʷin aksum s eṛṛxa ; bab el_lmacya yelha-yas imi ḋ-yerra kra di txessaṛt-is",
+                      "translation": "quand se blesse gravement dans une chute le bœuf ou la vache d'un habitant du village, il subit un gros dommage. Mais s'il égorge rituellement la bête avant qu'elle ne crève, il peut récupérer un peu de la perte. La mangera-t-il seul ? Ce n'est pas possible. Alors, ses proches et ses amis découpent la bête en parts et chacun donne sa contribution pour alléger la perte du propriétaire. C'est avantageux pour eux qui ont ainsi de la viande moins chère et pour le propriétaire qui récupère un peu du dommage subi."
                     },
                     {
                       "id": "5310",
                       "text": "tagujilt am leḥmegga ala aɛerḍi i tt-inefqen",
                       "dalletText": "tagujilt am leḥmegga ala aɛeṛḍi i ţ-inefqen",
-                      "translation": "seuls des gens de bien s'in­téressent à une orpheline (comme la bête accidentée, il faut un brave homme pour en acheter)."
+                      "translation": "seuls des gens de bien s'intéressent à une orpheline (comme la bête accidentée, il faut un brave homme pour en acheter)."
                     }
                   ]
                 }
@@ -199693,7 +199693,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Déborder (cours d'eau) ; être en crue. Bouillon­ner de colère."
+                    "Déborder (cours d'eau) ; être en crue. Bouillonner de colère."
                   ],
                   "examples": [
                     {
@@ -242177,7 +242177,7 @@
                     {
                       "id": "6225",
                       "dalletText": "akka d-wakka",
-                      "translation": "tout cela ",
+                      "translation": "tout cela",
                       "note": "* (beaucoup de choses, d'histoires... Souvent paroles lestes ou grossières qu'on ne veut pas répéter. Sinon mieux vaut dire : yexdem akka, yexdem akka, ou : yenna akka yenna akka, ou : akk ed-wakk, akk ed-wakk, etc.)."
                     }
                   ]
@@ -259349,7 +259349,7 @@
               "meanings": [
                 {
                   "translations": [
-                    "Louer, donner en location, et pass. ; mettre en adjudication "
+                    "Louer, donner en location, et pass. ; mettre en adjudication"
                   ],
                   "examples": [
                     {
@@ -265054,7 +265054,7 @@
             },
             {
               "id": "9fdd3bce-af0a-4b4c-940e-626869931018",
-              "prefix": "ttw ",
+              "prefix": "ttw",
               "name": "ttwikkes",
               "dalletNames": [
                 "ţwikkes"
@@ -274120,7 +274120,7 @@
                     {
                       "id": "7116",
                       "dalletText": "ur elliɣ ara di lemḱina",
-                      "translation": "je n'ai pas été là au moment opportun. "
+                      "translation": "je n'ai pas été là au moment opportun."
                     }
                   ],
                   "meanings": [
@@ -290260,7 +290260,7 @@
                 "tillas"
               ],
               "etymologicalReferences": [
-                "Destaing, ''tillas'', obscurité "
+                "Destaing, ''tillas'', obscurité"
               ],
               "see": "cf. kab. t l s",
               "meanings": [
@@ -290908,7 +290908,7 @@
               ],
               "conjugations": [
                 {
-                  "note": "var. du prêt. en a et de l'aor. en u ",
+                  "note": "var. du prêt. en a et de l'aor. en u",
                   "amyagId": "MTM3NA",
                   "intensiveForms": [
                     {
@@ -348847,7 +348847,7 @@
           "articles": [
             {
               "id": "a3285d4d-a81e-4fc0-94a0-47512e98cafc",
-              "nature": "interjection ",
+              "nature": "interjection",
               "name": "niɣ",
               "note": "employée absolument au début ou en fin de proposition.",
               "meanings": [
@@ -391463,7 +391463,7 @@
                       "id": "10376",
                       "dalletText": "d elɣiḍa !",
                       "translation": "c'est un imbécile.",
-                      "note": "(synonyme mais plus poli que de dire : ''d aɣyul !'') "
+                      "note": "(synonyme mais plus poli que de dire : ''d aɣyul !'')"
                     },
                     {
                       "id": "10377",
@@ -430232,7 +430232,7 @@
                       "id": "11329",
                       "dalletText": "ţxil-k a wⁱ ur iyi-nḥemmel, umⁱ as-riɣ i ulaɛⁱ-inek",
                       "translation": "je t'en prie, toi qui ne m'aimes pas, je n'ai pas besoin de tes discours.",
-                      "note": "(cette expression, en voie de fixation, devient pour certains : um-as-riɣ-as) "
+                      "note": "(cette expression, en voie de fixation, devient pour certains : um-as-riɣ-as)"
                     },
                     {
                       "id": "11330",
@@ -567470,7 +567470,7 @@
                   ],
                   "meanings": [
                     {
-                      "case": "**  Avec le préfixe verbal on a aussi :",
+                      "case": "** Avec le préfixe verbal on a aussi :",
                       "examples": [
                         {
                           "id": "15090",
