@@ -1,6 +1,6 @@
 {
   "readme": {
-    "lastModificationDate": "2026-11-23T00:22:04.5644659+01:00",
+    "lastModificationDate": "2026-11-23T04:55:59.6304247+01:00",
     "dataModelVersion": 8,
     "fileDescription": "Dallet's dictionary of Kabyle, digitized & structured",
     "fileUrl": "https://github.com/sferhah/DigitizedDallet/blob/master/DigitizedDallet/wwwroot/dictionary.json",
@@ -14296,7 +14296,7 @@
                 "abelqeṭṭiḍ"
               ],
               "etymologicalReferences": [
-                "m. c.  B. q ṭṭ ?"
+                "m. c. B. q ṭṭ ?"
               ],
               "pluralForms": [
                 {
@@ -29582,7 +29582,7 @@
             },
             {
               "id": "9f8b9bff-1b84-43a4-aa5e-68e76309a761",
-              "prefix": "ttw ",
+              "prefix": "ttw",
               "name": "ttwabri",
               "dalletNames": [
                 "ţwabri"
@@ -51145,7 +51145,7 @@
             },
             {
               "id": "65d39f43-8a28-4349-8a8b-246f421ad4b6",
-              "prefix": "tw ",
+              "prefix": "tw",
               "name": "ttucekker",
               "dalletNames": [
                 "ţţucekkeṛ"
@@ -60865,7 +60865,7 @@
                 "ecqu"
               ],
               "etymologicalReferences": [
-                "ar.  c q y"
+                "ar. c q y"
               ],
               "conjugations": [
                 {
@@ -66016,7 +66016,7 @@
                     },
                     {
                       "id": "1733",
-                      "dalletText": "a ḥeqq tabaqit-ennⁱ  i ɣ-icerken ; ou : a ḥeqq tagʷella d-lemleḥ i ɣ-icerken",
+                      "dalletText": "a ḥeqq tabaqit-ennⁱ i ɣ-icerken ; ou : a ḥeqq tagʷella d-lemleḥ i ɣ-icerken",
                       "translation": "par les bons rapports qui nous ont jadis rapprochés ! (par la nourriture que nous avons prise ensemble ! formule de serment)."
                     }
                   ]
@@ -70390,7 +70390,7 @@
                     },
                     {
                       "id": "1834",
-                      "dalletText": "zik  timɣaṛin ţţawint taẓult di ticcewt n taɣaṭ",
+                      "dalletText": "zik timɣaṛin ţţawint taẓult di ticcewt n taɣaṭ",
                       "translation": "autrefois les vieilles gardaient le fard pour paupières dans une corne de chèvre."
                     }
                   ]
@@ -70432,7 +70432,7 @@
                     },
                     {
                       "id": "1836",
-                      "dalletText": "weḷḷeh luḱam ad eṭṭseɣ  g_gciwi-s !",
+                      "dalletText": "weḷḷeh luḱam ad eṭṭseɣ g_gciwi-s !",
                       "translation": "j'ai toute confiance en elle (je dormirais sur son sein)."
                     },
                     {
@@ -86924,7 +86924,7 @@
               ],
               "info": "Semble n'être employé que dans des expressions",
               "etymologicalReferences": [
-                "ar. : ḏimma,  responsabilité, charge."
+                "ar. : ḏimma, responsabilité, charge."
               ],
               "meanings": [
                 {
@@ -117388,7 +117388,7 @@
                   "examples": [
                     {
                       "id": "3088",
-                      "dalletText": "yessefda-ḋ — ou : yefda-ḋ  ayla-s",
+                      "dalletText": "yessefda-ḋ — ou : yefda-ḋ ayla-s",
                       "translation": "il a récupéré son bien."
                     }
                   ]
@@ -119747,7 +119747,7 @@
                     },
                     {
                       "id": "3136",
-                      "dalletText": "yessafg-as awal  seg_gmi-s",
+                      "dalletText": "yessafg-as awal seg_gmi-s",
                       "translation": "il l'a empêché de continuer à parler (il lui a coupé la parole de la bouche)."
                     },
                     {
@@ -123472,7 +123472,7 @@
                   "examples": [
                     {
                       "id": "3229",
-                      "dalletText": "seg_gʷasmi i s-yekkes  yelli-s, mfakaken s widn en dir",
+                      "dalletText": "seg_gʷasmi i s-yekkes yelli-s, mfakaken s widn en dir",
                       "translation": "depuis qu'il lui a refusé la main de sa fille, ils sont allés jusqu'au bout des paroles déplaisantes."
                     }
                   ]
@@ -139748,32 +139748,37 @@
                     {
                       "id": "3732",
                       "dalletText": "ma tfeṛqeḍ taqeḍɛit ad yawi wucceu taɣaṭ",
-                      "translation": "l'union fait la force et la sécurité (si tu divises le troupeau, le chacal emportera une chèvre)."
+                      "translation": "l'union fait la force et la sécurité.",
+                      "literal": "si tu divises le troupeau, le chacal emportera une chèvre"
                     },
                     {
                       "id": "3733",
                       "dalletText": "am_muccen ifeṛqen tajlibt",
-                      "translation": "il met le désordre, la brouille (comme le chacal qui disperse un troupeau)."
+                      "translation": "il met le désordre, la brouille.",
+                      "literal": "comme le chacal qui disperse un troupeau"
                     },
                     {
                       "id": "3734",
                       "dalletText": "awal n tsummta d win i_gfeṛṛqen",
-                      "translation": "il ne faut pas trop écouter les propos des femmes, de sa femme (les mots de l'oreiller, ce sont ceux-là qui mettent la division)."
+                      "translation": "il ne faut pas trop écouter les propos des femmes, de sa femme.",
+                      "literal": "les mots de l'oreiller, ce sont ceux-là qui mettent la division"
                     },
                     {
                       "id": "3735",
-                      "dalletText": "a  nefṛeq tamellalt i y at bġayet ?",
-                      "translation": "comment pourrons-nous contenter tout le monde avec si peu, si tout le monde demande un partage équitable ? (allons-nous être obligés de partager un neuf entre tous les Bougiotes ?)"
+                      "dalletText": "a nefṛeq tamellalt i y at bġayet ?",
+                      "translation": "comment pourrons-nous contenter tout le monde avec si peu, si tout le monde demande un partage équitable ?",
+                      "literal": "allons-nous être obligés de partager un neuf entre tous les Bougiotes ?"
                     },
                     {
                       "id": "3736",
-                      "dalletText": "Amsefru: taqessult el_lmeṛǧan,  ff ur tezzin yizan, feṛq-iţ i ljiran ?, Lewǧab: t_timess",
+                      "dalletText": "Amsefru: taqessult el_lmeṛǧan, ff ur tezzin yizan, feṛq-iţ i ljiran ?, Lewǧab: t_timess",
                       "translation": "Devinette : une assiette de corail, dont les mouches se gardent d'approcher ; partage-la avec les voisins. Réponse : le feu."
                     },
                     {
                       "id": "3737",
                       "dalletText": "ṣṣyada, ṣṣbeḥ i ţ-feṛṛqen, aḥlil imeɣban yeṭṭsen !",
-                      "translation": "il faut savoir se lever matin ; être à l'heure (le gibier, c'est le matin qu'il se répartit : malheur aux endormis)."
+                      "translation": "il faut savoir se lever matin ; être à l'heure.",
+                      "literal": "le gibier, c'est le matin qu'il se répartit : malheur aux endormis"
                     }
                   ]
                 },
@@ -140352,7 +140357,7 @@
                     },
                     {
                       "id": "3749",
-                      "dalletText": "iɛedda-ḋ  wuccen yessemfeṛqeɛ tajlibt",
+                      "dalletText": "iɛedda-ḋ wuccen yessemfeṛqeɛ tajlibt",
                       "translation": "le chacal arriva et dispersa le troupeau."
                     }
                   ]
@@ -157755,7 +157760,7 @@
                     },
                     {
                       "id": "4246",
-                      "dalletText": "adriz  n tura, a m-ḋ-eɣlin ula d uglan !",
+                      "dalletText": "adriz n tura, a m-ḋ-eɣlin ula d uglan !",
                       "translation": "tout est trop cher ! (une fête maintenant, même les dents vont t'en tomber!)."
                     },
                     {
@@ -158034,7 +158039,7 @@
                     },
                     {
                       "id": "4256",
-                      "dalletText": "ǧǧan-as-ḋ  lwaldin-is tigullelt",
+                      "dalletText": "ǧǧan-as-ḋ lwaldin-is tigullelt",
                       "translation": "ses parents lui ont laissé une triste situation, pauvreté et peu de prestige."
                     },
                     {
@@ -165285,7 +165290,7 @@
                   "examples": [
                     {
                       "id": "4532",
-                      "text": "asmi ara tefru lgira, talemmast  n lezzayer-nnwen",
+                      "text": "asmi ara tefru lgira, talemmast n lezzayer-nnwen",
                       "dalletText": "asmⁱ ara tefru lġira, talemmast el_lžayer-nnwen",
                       "translation": "lorsque la guerre sera terminée vous serez au cœur de l'Algérie.",
                       "source": "(chant)"
@@ -168975,7 +168980,7 @@
                     },
                     {
                       "id": "4626",
-                      "dalletText": "tamṭṭut  t_tagʷersa bbʷexxam",
+                      "dalletText": "tamṭṭut t_tagʷersa bbʷexxam",
                       "translation": "la femme est le soc de la maison : c'est elle qui est à l'origine de toute fécondité."
                     }
                   ]
@@ -185737,7 +185742,7 @@
                   "examples": [
                     {
                       "id": "5020",
-                      "dalletText": "tɣill t_taɛeggunt armi  s-ḋ_deḥca asagʷar n at_tmeɣṛa",
+                      "dalletText": "tɣill t_taɛeggunt armi s-ḋ_deḥca asagʷar n at_tmeɣṛa",
                       "translation": "elle l'a prise pour une imbécile en lui fourrant les restes des gens de la noce."
                     },
                     {
@@ -199598,7 +199603,7 @@
                       "id": "5310",
                       "text": "tagujilt am leḥmegga ala aɛerḍi i tt-inefqen",
                       "dalletText": "tagujilt am leḥmegga ala aɛeṛḍi i ţ-inefqen",
-                      "translation": "seuls des gens de bien s'in­téressent à une orpheline  (comme la bête accidentée, il faut un brave homme pour en acheter)."
+                      "translation": "seuls des gens de bien s'in­téressent à une orpheline (comme la bête accidentée, il faut un brave homme pour en acheter)."
                     }
                   ]
                 }
@@ -199701,7 +199706,7 @@
                       "id": "5312",
                       "text": "ad k-yeḥmel wasif!",
                       "dalletText": "a ḱ-yeḥmel wasif !",
-                      "translation": "* que la rivière t'emporte ! (Réponse à qui dit hypocritement :  ḥemmleɣ-k !, je t'aime !)"
+                      "translation": "* que la rivière t'emporte ! (Réponse à qui dit hypocritement : ḥemmleɣ-k !, je t'aime !)"
                     }
                   ]
                 }
@@ -205511,7 +205516,7 @@
                   "examples": [
                     {
                       "id": "5421",
-                      "dalletText": "mⁱ ara temmet tlemẓit leɛmeṛ nejwiǧ qqaṛn-as mesḱint temmut  t_taḥuṛit !",
+                      "dalletText": "mⁱ ara temmet tlemẓit leɛmeṛ nejwiǧ qqaṛn-as mesḱint temmut t_taḥuṛit !",
                       "translation": "quand une jeune fille qui n'a pas été mariée meurt, on dit : la pauvre, elle est morte « houri ».",
                       "note": "(F.D.B., v. supra, ibid.)"
                     }
@@ -211151,7 +211156,7 @@
                     },
                     {
                       "id": "5529",
-                      "dalletText": "ḥusseɣ i wul-iw  yefsi",
+                      "dalletText": "ḥusseɣ i wul-iw yefsi",
                       "translation": "j'ai senti mon cœur se fondre, l'émotion me gagner."
                     },
                     {
@@ -213979,7 +213984,7 @@
                     },
                     {
                       "id": "5593",
-                      "dalletText": "bessif i s-nḥeţţem afenǧal  l_lqahwa",
+                      "dalletText": "bessif i s-nḥeţţem afenǧal l_lqahwa",
                       "translation": "c'est à grand peine que nous avons pu lui faire prendre une tasse de café."
                     }
                   ]
@@ -219531,7 +219536,7 @@
                         },
                         {
                           "translations": [
-                            "** La phrase avec ay exprime une interrogation.<br /> -ay ɣer ? ay ɣef ?, Pourquoi ? (ay seulement et non i).<br />  ----- ɣef_fay deg... (< ɣef way deg) ? Sur quoi ?...<br /> ----- deg_gʷay deg... (< deg way deg) ? En quoi ?...<br /> ----- deg_gʷi deg... (< deg wi deg) ? En quoi ?... <br />● deg_gʷay deg / deg_gʷi deg i d_debbʷiḍ aman, # dans quoi as-tu apporté de l'eau ?<br /> ----- s way es / s wi s Avec quoi ? <br />● s wi s ara siɣeɣ timess ?, # Avec quoi allumerai-je le feu ?"
+                            "** La phrase avec ay exprime une interrogation.<br /> -ay ɣer ? ay ɣef ?, Pourquoi ? (ay seulement et non i).<br /> ----- ɣef_fay deg... (< ɣef way deg) ? Sur quoi ?...<br /> ----- deg_gʷay deg... (< deg way deg) ? En quoi ?...<br /> ----- deg_gʷi deg... (< deg wi deg) ? En quoi ?... <br />● deg_gʷay deg / deg_gʷi deg i d_debbʷiḍ aman, # dans quoi as-tu apporté de l'eau ?<br /> ----- s way es / s wi s Avec quoi ? <br />● s wi s ara siɣeɣ timess ?, # Avec quoi allumerai-je le feu ?"
                           ],
                           "examples": [
                             {
@@ -230164,7 +230169,7 @@
                   "examples": [
                     {
                       "id": "5976",
-                      "dalletText": "ajmaɛin aḱʷ  ou : amin ajmaɛin !",
+                      "dalletText": "ajmaɛin aḱʷ ou : amin ajmaɛin !",
                       "translation": "mm. ss."
                     }
                   ]
@@ -273702,7 +273707,7 @@
                     },
                     {
                       "id": "7075",
-                      "dalletText": "yir_wal yeţţaḋed di taɣʷect, ur etliḍ a t_tsegʷḍeḍ walᵃ a  t iḋ_ḍeggṛeḍ",
+                      "dalletText": "yir_wal yeţţaḋed di taɣʷect, ur etliḍ a t_tsegʷḍeḍ walᵃ a t iḋ_ḍeggṛeḍ",
                       "translation": "une mauvaise parole reste dans la gorge, sans qu'il soit possible ni de l'avaler ni de la rejeter."
                     },
                     {
@@ -314029,7 +314034,7 @@
                   ]
                 },
                 {
-                  "case": "**  meqqar-ik, meqqar-is, meqqar-ensen, heureusement pour toi, pour lui, pour eux (construction non admise par tous).",
+                  "case": "** meqqar-ik, meqqar-is, meqqar-ensen, heureusement pour toi, pour lui, pour eux (construction non admise par tous).",
                   "examples": [
                     {
                       "id": "8306",
@@ -328574,7 +328579,7 @@
                         },
                         {
                           "id": "8734",
-                          "dalletText": "anda tṛuḥeḍ ? /  s ani tṛuḥeḍ ?",
+                          "dalletText": "anda tṛuḥeḍ ? / s ani tṛuḥeḍ ?",
                           "translation": "où es-tu allé ?"
                         },
                         {
@@ -328851,7 +328856,7 @@
                     },
                     {
                       "id": "8753",
-                      "dalletText": "akkᵃ  i_ġeqqaṛ baba-s i mmi-s !",
+                      "dalletText": "akkᵃ i_ġeqqaṛ baba-s i mmi-s !",
                       "translation": "je ne suis pas du tout décidé à m'exécuter si facilement (iron. ; c'est ainsi que parle un père à son fils)."
                     },
                     {
@@ -370165,7 +370170,7 @@
                     {
                       "id": "9778",
                       "dalletText": "a ḱ-yeɣbu ṛebbi ! / ad yeɣbu ṛebbi ssemm-ik !",
-                      "translation": "puisses-tu disparaître !  / Dieu fasse disparaître ton poison !"
+                      "translation": "puisses-tu disparaître ! / Dieu fasse disparaître ton poison !"
                     }
                   ]
                 }
@@ -399959,7 +399964,7 @@
                     },
                     {
                       "id": "10573",
-                      "dalletText": "Amsefru: lqedd annect bbʷezduz, leɛyaḍ yeɣleb agenduz. Lewǧab:  t_tagelzimt",
+                      "dalletText": "Amsefru: lqedd annect bbʷezduz, leɛyaḍ yeɣleb agenduz. Lewǧab: t_tagelzimt",
                       "translation": "Devinette : grand comme un battoir, il crie plus fort qu'un veau. Réponse : la hachette."
                     },
                     {
@@ -401368,7 +401373,7 @@
                   "examples": [
                     {
                       "id": "10609",
-                      "dalletText": "d ayᵃ i d as-ḋ-iqeddeṛ ṛebbi l_lɛalamin asmⁱ  i t-yexleq di tɛebbuṭ ggemma-s",
+                      "dalletText": "d ayᵃ i d as-ḋ-iqeddeṛ ṛebbi l_lɛalamin asmⁱ i t-yexleq di tɛebbuṭ ggemma-s",
                       "translation": "il est ainsi fait ; il ne pouvait en arriver autrement pour lui.",
                       "literal": "ainsi en décréta Dieu pour lui quand il le créa dans le sein de sa mère"
                     }
@@ -401383,7 +401388,7 @@
                       "id": "10610",
                       "dalletText": "ma d aqejmuṛ a_nqeddeṛ, ma d etteryel ad as-nerwel",
                       "translation": "si c'est une bûche, on fera des bûchettes ; si c'est une ogresse, on va se défiler !",
-                      "note": "(refrain d'un jeu de fillettes appelé « tibḥirt n yemma jida  » le jardin de l'ogresse du conte populaire Yemma Jida)."
+                      "note": "(refrain d'un jeu de fillettes appelé « tibḥirt n yemma jida » le jardin de l'ogresse du conte populaire Yemma Jida)."
                     }
                   ]
                 },
@@ -428764,7 +428769,7 @@
                     },
                     {
                       "id": "11239",
-                      "dalletText": "temliḍ i lqaɛa ;  — ou : ečč a lqaɛa !",
+                      "dalletText": "temliḍ i lqaɛa ; — ou : ečč a lqaɛa !",
                       "translation": "(formules prophylactiques après avoir prononcé le nom d'une maladie ou d'un malheur redouté : tu t'es adressé au sol ! — ou : mange, ô sol !)."
                     },
                     {
@@ -471394,7 +471399,7 @@
                   "examples": [
                     {
                       "id": "12501",
-                      "dalletText": "yessgʷaḍ  elqut am_mezrem",
+                      "dalletText": "yessgʷaḍ elqut am_mezrem",
                       "translation": "il engloutit comme un serpent."
                     },
                     {
@@ -492499,7 +492504,7 @@
                   "examples": [
                     {
                       "id": "13068",
-                      "dalletText": "lxiṛ -is ur yesɛi  ssuma",
+                      "dalletText": "lxiṛ -is ur yesɛi ssuma",
                       "translation": "ses services sont inestimables."
                     }
                   ]
@@ -541612,7 +541617,7 @@
                     },
                     {
                       "id": "14363",
-                      "dalletText": "ulᵃ  i k-ḋ-yewṣel ṛebbi !",
+                      "dalletText": "ulᵃ i k-ḋ-yewṣel ṛebbi !",
                       "translation": "Dieu n'a rien à t'ajouter ! (à une personne disgraciée qui montre de l'impertinence, de la turbulence, de la méchanceté)."
                     },
                     {
@@ -545324,7 +545329,7 @@
                   "examples": [
                     {
                       "id": "14514",
-                      "dalletText": "mi twezzeɛ lqaḥwa  d elxiṛ ara ḋ-yeṭṭuqqten",
+                      "dalletText": "mi twezzeɛ lqaḥwa d elxiṛ ara ḋ-yeṭṭuqqten",
                       "translation": "éparpiller du café est un porte-bonheur."
                     },
                     {
@@ -568777,7 +568782,7 @@
                     },
                     {
                       "id": "15144",
-                      "dalletText": "yir  lɛella tuɣ lalla",
+                      "dalletText": "yir lɛella tuɣ lalla",
                       "translation": "la coupe est pleine ! (tous les malheurs, défauts, maladies... ont pris la dame !).",
                       "note": "[[lɛella]], hydropisie"
                     },
@@ -579766,7 +579771,7 @@
                     },
                     {
                       "id": "15404",
-                      "dalletText": "lxelq yessaɛezz sidi ṛebbi, ama yeklal-it ama  ur t-yeklal, yeţţaf tabburt di mkul lḥaǧa i dg ur neǧǧmen acemma wiyaḍ ; yesɛa ẓẓheṛ",
+                      "dalletText": "lxelq yessaɛezz sidi ṛebbi, ama yeklal-it ama ur t-yeklal, yeţţaf tabburt di mkul lḥaǧa i dg ur neǧǧmen acemma wiyaḍ ; yesɛa ẓẓheṛ",
                       "translation": "celui que Dieu aime, qu'il le mérite ou non, réussit en tout ce que les autres ne peuvent faire : on dit qu'il a de la chance."
                     },
                     {
@@ -616449,7 +616454,7 @@
                     },
                     {
                       "id": "16290",
-                      "dalletText": "leɛnaya ṛ_ṛebbi mᵃ  ur teqqimeḍ at_teččeḍ !",
+                      "dalletText": "leɛnaya ṛ_ṛebbi mᵃ ur teqqimeḍ at_teččeḍ !",
                       "translation": "par Dieu, je t'en prie, reste manger !"
                     },
                     {
@@ -622466,7 +622471,7 @@
                     },
                     {
                       "id": "16452",
-                      "dalletText": "a yelli ixxamen s iɛessasen : ma txedmeḍ s elmul, a ḱem-yeẓẓu uɛessas ; mᵃ  ulac a ḱem-yeqleɛ",
+                      "dalletText": "a yelli ixxamen s iɛessasen : ma txedmeḍ s elmul, a ḱem-yeẓẓu uɛessas ; mᵃ ulac a ḱem-yeqleɛ",
                       "translation": "ma fille, toutes les maisons ont des Gardiens ; si tu travailles de tout ton cœur, ils te donneront la stabilité, sinon, ils te chasseront (ils te planteront, sinon ils t'arracheront)."
                     }
                   ]
