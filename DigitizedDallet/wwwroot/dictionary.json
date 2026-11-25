@@ -1,6 +1,6 @@
 {
   "readme": {
-    "lastModificationDate": "2026-11-24T00:13:18.2003196+01:00",
+    "lastModificationDate": "2026-11-25T08:01:33.521211+01:00",
     "dataModelVersion": 8,
     "fileDescription": "Dallet's dictionary of Kabyle, digitized & structured",
     "fileUrl": "https://github.com/sferhah/DigitizedDallet/blob/master/DigitizedDallet/wwwroot/dictionary.json",
@@ -563895,7 +563895,7 @@
                   "examples": [
                     {
                       "id": "14972",
-                      "dalletText": "lmal ma yexwa, ur ḋ-yeţţaw' ara ssuma",
+                      "dalletText": "lmal ma yexwa, ur ḋ-yeţţawⁱ ara ssuma",
                       "translation": "quand le bétail a les flancs creux, il ne sera pas vendu cher."
                     }
                   ]
@@ -578086,14 +578086,14 @@
                   "examples": [
                     {
                       "id": "15358",
-                      "text": "azgen l lgelba ou simplement : azgen",
                       "dalletText": "* azġen l_lġelba ou simplement : azġen",
                       "translation": "un demi-double (10 litres)."
                     },
                     {
                       "id": "15359",
                       "dalletText": "awal azġen",
-                      "translation": "parole brève (parole à moitié)."
+                      "translation": "parole brève.",
+                      "literal": "parole à moitié"
                     }
                   ]
                 }
@@ -581551,7 +581551,7 @@
                   "examples": [
                     {
                       "id": "15447",
-                      "dalletText": "la neţţemzazzal w' ara yezwiren wayeḍ",
+                      "dalletText": "la neţţemzazzal wⁱ ara yezwiren wayeḍ",
                       "translation": "nous faisons la course à qui arrivera avant l'autre."
                     }
                   ]
@@ -591754,7 +591754,7 @@
                     },
                     {
                       "id": "15675",
-                      "dalletText": "lexla yettsuɣu ɣeṛ ṛebbi yeqqaṛ-as : a ṛebbi, fḱ-iyi w' ara yi_ẓeṛṛben, ad ssemlileɣ iḥbiben !",
+                      "dalletText": "lexla yettsuɣu ɣeṛ ṛebbi yeqqaṛ-as : a ṛebbi, fḱ-iyi wⁱ ara yi_ẓeṛṛben, ad ssemlileɣ iḥbiben !",
                       "translation": "la campagne crie vers Dieu : Seigneur, faites qu'on me clôture de haies et que les gens s'entendent (au lieu de se disputer des droits de pacage)."
                     }
                   ]
